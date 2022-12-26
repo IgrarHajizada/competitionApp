@@ -19,7 +19,7 @@ Select the next action:
 2. Start the competition
 3. Logout
 4. Exit
-
+--------
 2. Start competition if selected
 The system will select any number between 1 and 5, for example 2, but the customer will not know it. The customer will be asked who do you think is the selected person? If the customer chooses 2 "Congratulations you won!" otherwise, the message "You failed" should be displayed.
 
