@@ -1,3 +1,5 @@
+Competition Application
+------------
 When the app starts, it asks the user to log in. The user is asked for a username and password.
 If the client enters username: Igrar, password: 12345, it enters the system, otherwise it gives an error. If there are 3 incorrect logins, the message "You banned" will be displayed and exited.
 If there is a successful login, the info will be displayed as "Successfully login" and
