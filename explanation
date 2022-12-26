@@ -1,0 +1,12 @@
+Yarış app.
+ İstifadəçidən user və parol istənilir. Üç dəfə səhv yazssa bloklanır. Düz yazsa menyu çıxır
+ 1. Yarışmacıları redgitr et
+ 2. Yarışı başlat
+ 3. User logout
+ 4. Exit
+
+ 1 seçilsə neçə nəfər qeydiyyatdan keçəcəy daha sonra məlumatlar doldurulur
+ 2 seçilsə yarış başlayır daxil edilən yarışmacılardan biri random seçilir userdən rəqəm istənilir əgər
+   düz olsa təbriklər.
+ 3 daxil olan istifadəçi çıxılır və yenidən başa qayılır user parol istənilir
+ 4 sistemnən ümumiyyətlə çıxılır
