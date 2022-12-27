@@ -8,7 +8,7 @@ import projects.competitionApp.service.MenuRegisterService;
 
 public class MenuStartService implements MenuInterface {
 
-    // change by Iqrar v2
+ 
 
     @Override
     public void process() {
