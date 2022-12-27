@@ -8,6 +8,8 @@ import projects.competitionApp.service.MenuRegisterService;
 
 public class MenuStartService implements MenuInterface {
 
+    // change by Iqrar
+
     @Override
     public void process() {
         Random random = new Random();
